@@ -1,4 +1,3 @@
-
 # 🚀 Alien Invasion
 
 A fast-paced arcade shooter built with **Python** and **Pygame**. Pilot your ship, fire bullets at incoming alien fleets, and aim for the highest score. The game features a dynamic scoreboard, responsive controls, and a modular codebase for easy extension.
