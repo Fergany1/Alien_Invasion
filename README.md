@@ -60,3 +60,21 @@ Use settings.py to cap bullet count and tweak speeds.
 Separate collision logic in bullet.py to simplify testing.
 
 ## 🧱 Project Structure
+
+Alien-Invasion/
+├─ alien_invasion.py        # Main entry point (game loop, event handling)
+├─ settings.py              # All tunable game settings (speeds, colors, sizes)
+├─ ship.py                  # Player ship logic and rendering
+├─ alien.py                 # Alien sprite logic and fleet management
+├─ bullet.py                # Bullet sprite logic and collision handling
+├─ game_states.py           # Manages active/pause/game-over states
+├─ scoreboard.py            # Rendering score, high score, and level
+├─ button.py                # UI buttons (e.g., Play/Restart)
+├─ assets/                  # Images, sounds, fonts (optional, user-provided)
+└─ docs/                    # Screenshots, banner, design notes (optional)
+
+👨‍💻 Author
+AbdelRahaman Fergany – Student, Cairo (Maadi)
+Feel free to reach out or open an issue for feedback.
+
+## 🧱 Project Structure
